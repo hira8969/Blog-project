@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+//hero second 
 import { ArrowRight, Sparkles, TrendingUp } from "lucide-react";
 import { Link } from "react-router-dom";
 
